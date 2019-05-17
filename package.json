@@ -1,0 +1,15 @@
+{
+  "name": "simple-node-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "simple-socks": "^1.0.2"
+  }
+}
